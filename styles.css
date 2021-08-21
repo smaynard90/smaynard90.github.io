@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+}
+
+.profile {
+    width: 150px;
+}
+
+.profile-name {
+    margin-top: 5px;
+    font-size: 36px;
+}
+
+.nav {
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: .5em 0;
+    justify-content: center;
+}
+
+.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list li {
+    display: inline-block;
+}
+
+.nav-link:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: rgb(29, 29, 29);
+}
+
+body {
+    padding: 20px;
+}
