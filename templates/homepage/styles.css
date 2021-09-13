@@ -110,3 +110,7 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+
+#submit-contact {
+    -webkit-appearance: none;
+}
