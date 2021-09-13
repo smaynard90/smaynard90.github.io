@@ -97,6 +97,10 @@ textarea {
     width: 100%;
 }
 
+#submit-contact {
+    appearance: none;
+}
+
 p {
     display: block;
     margin-block-start: 1em;
