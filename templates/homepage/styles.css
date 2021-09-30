@@ -114,3 +114,8 @@ p {
 #submit-contact {
     -webkit-appearance: none;
 }
+
+.resume {
+    text-align: center;
+    font-weight: bold;
+}
